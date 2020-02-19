@@ -54,11 +54,14 @@ Pada Latihan navigation bar mempelajari tentang cara membuat navigasi bar dengan
 Pada Latihan bootstrap slider mempelajari tentang cara membuat slideshow dari beberapa gambar yang telah kita tambahkan pada file HTML
 
 ![Alt Text](https://github.com/necha28/Bootstrap/blob/master/Lat7.PNG)
+![Alt Text](https://github.com/necha28/Bootstrap/blob/master/Lat7.1.PNG)
+![Alt Text](https://github.com/necha28/Bootstrap/blob/master/Lat7.2.PNG)
 
 # Latihan Bootstrap Modal
 
 Pada Latihan bootstrap modal mempelajari tentang cara membuat tombol responsive dengan nama modal , tombol tersebut terdiri dari tombol danger , info , dan successful sehingga apabila di click maka akan memunculkan informasi sesuai dengan halaman atau content
 
+![Alt Text](https://github.com/necha28/Bootstrap/blob/master/Lat8.PNG)
 ![Alt Text](https://github.com/necha28/Bootstrap/blob/master/Lat8.1.PNG)
 ![Alt Text](https://github.com/necha28/Bootstrap/blob/master/Lat8.2.PNG)
 ![Alt Text](https://github.com/necha28/Bootstrap/blob/master/Lat8.3.PNG)
